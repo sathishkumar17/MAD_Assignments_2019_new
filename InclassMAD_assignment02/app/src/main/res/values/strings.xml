@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClass_assignment2</string>
+    <string name="textView_length1">Length 1</string>
+    <string name="textView_length2">Length 2</string>
+    <string name="textView_length1_val">Enter the length 1</string>
+    <string name="textView_length2_val">Enter the length 2</string>
+    <string name="selected_shape">Select The Shape</string>
+    <string name="buttonView_calculate">Calculate</string>
+    <string name="textView_result">Result</string>
+    <string name="buttonView_clear">Clear</string>
+</resources>

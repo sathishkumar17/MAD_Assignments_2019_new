@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='InclassMAD_assignment02'
